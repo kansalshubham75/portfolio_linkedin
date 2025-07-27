@@ -294,7 +294,7 @@ const App = () => {
                                             📱 +91 99995 77846
                                         </motion.a>
                                         <motion.a
-                                            href="https://linkedin.com/in/shubhamkansal"
+                                            href="https://www.linkedin.com/in/shubham-kansal-487698170/"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="contact-link"
