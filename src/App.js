@@ -248,12 +248,11 @@ const App = () => {
                                     }}
                                     whileHover={{
                                         scale: 1.1,
-                                        rotate: 360,
                                         transition: { duration: 0.6 }
                                     }}
                                 >
                                     <div className="avatar-ring">
-                                        <span className="avatar-text">SK</span>
+                                        <img src='/header_img.jpg' alt="Shubham Kansal" />
                                     </div>
                                 </motion.div>
                                 <div className="profile-info">
