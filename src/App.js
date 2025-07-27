@@ -252,7 +252,7 @@ const App = () => {
                                     }}
                                 >
                                     <div className="avatar-ring">
-                                        <img src='/header_img.jpg' alt="Shubham Kansal" />
+                                        <img src={`${process.env.PUBLIC_URL}/header_img.jpg`} alt="Shubham Kansal" />
                                     </div>
                                 </motion.div>
                                 <div className="profile-info">
